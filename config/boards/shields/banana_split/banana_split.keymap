@@ -15,7 +15,7 @@
 
         default_layer {
             bindings = <
-                &lt 1 N1 &kp N2 &kp N3 &kp N4           &kp N5 &kp N6 &kp N7 &kp N8
+                &lt 1 ESC &kp R &kp SPACE &kp F           &kp RIGHT_BRACKET &kp F9 &kp BACKSLASH &kp PERIOD
             >; 
         };
 
@@ -24,6 +24,5 @@
                 &trans &none &none &none                                       &none &none &none &bootloader
             >; 
         };
-
     };
 };
