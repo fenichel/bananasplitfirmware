@@ -15,7 +15,7 @@
 
         default_layer {
             bindings = <
-                &lt 1 ESC &kp R &kp SPACE &kp F           &kp RIGHT_BRACKET &kp F9 &kp BACKSLASH &kp PERIOD
+                &lt 1 E &kp M &kp SPACE &kp V           &kp BACKSLASH &kp RIGHT_BRACKET &kp RETURN &kp f9
             >; 
         };
 
