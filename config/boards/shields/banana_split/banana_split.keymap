@@ -59,7 +59,7 @@
 
         default_layer {
             bindings = <
-                &lt 1 simplepaste &noformat &codepaste &multicodepaste           &kp BACKSLASH &kp RIGHT_BRACKET &kp RETURN &kp F9
+                &simplepaste &noformat &codepaste &multicodepaste           &lt 1 BACKSLASH &kp RIGHT_BRACKET &kp RETURN &kp F9
             >; 
         };
 
