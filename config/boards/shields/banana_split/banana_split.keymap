@@ -59,13 +59,13 @@
 
         default_layer {
             bindings = <
-                &simplepaste &noformat &codepaste &multicodepaste           &lt 1 BACKSLASH &kp RIGHT_BRACKET &kp RETURN &kp F9
+                &kp UP_ARROW &kp DOWN_ARROW &kp LEFT_ARROW &lt 1 RIGHT_ARROW          &lt 1 BACKSLASH &kp RIGHT_BRACKET &kp RETURN &kp F9
             >; 
         };
 
         lower {
             bindings = <
-                &trans &none &none &none                                       &none &none &none &bootloader
+                &trans &none &none &bootloader                                       &none &none &none &bootloader
             >; 
         };
     };
