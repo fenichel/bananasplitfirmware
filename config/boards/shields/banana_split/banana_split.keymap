@@ -59,7 +59,7 @@
 
         default_layer {
             bindings = <
-                &kp B &kp A &kp N &lt 1 A          &lt 1 N &kp A &kp EXCLAMATION &kp EXCLAMATION
+                &kp B &kp A &kp N &bootloader          &lt 1 A &kp N &kp A &kp EXCLAMATION
             >; 
         };
 
