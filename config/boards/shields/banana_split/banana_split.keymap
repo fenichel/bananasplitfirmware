@@ -59,7 +59,7 @@
 
         default_layer {
             bindings = <
-                &kp UP_ARROW &kp DOWN_ARROW &kp LEFT_ARROW &lt 1 RIGHT_ARROW          &lt 1 BACKSLASH &kp RIGHT_BRACKET &kp RETURN &kp F9
+                &kp B &kp A &kp N &lt 1 A          &lt 1 N &kp A &kp EXCLAMATION &kp EXCLAMATION
             >; 
         };
 
